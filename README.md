@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Vaishnavi Hemadri
-- 👀 I’m interested in DATA
-- 🌱 I’m currently learning DATA ANALYTICS
-- 💞️ I’m looking to collaborate on DATA ANALYTICS
+- 👀 I’m interested in turning DATA into useful INSIGHTS
 - 📫 Reach me on vaishnavihg2002@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I want to be a data doctor—diagnosing messy datasets and prescribing clean, actionable insights!
