@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Vaishnavi Hemadri
-- Programmer Analyst at Cognizant since May 2025
+- 👩🏻‍💻 Programmer Analyst at Cognizant since May 2025
 - 👀 I’m interested in turning DATA into useful INSIGHTS
 - 📫 Reach me on vaishnavihg2002@gmail.com
 - 📍 Hyderabad, India
