@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Vaishnavi Hemadri
+- Programmer Analyst at Cognizant since May 2025
 - 👀 I’m interested in turning DATA into useful INSIGHTS
 - 📫 Reach me on vaishnavihg2002@gmail.com
-- 😄 Pronouns: She/Her
+- 📍 Hyderabad, India
 - ⚡ Fun fact: I want to be a data doctor—diagnosing messy datasets and prescribing clean, actionable insights!
 
 <!---
